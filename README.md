@@ -1,7 +1,7 @@
 # StaticLibrary
-<bra>
+<br>
 Creating the Static library(.lib) files in c
-<bra>
+<br>
 First git repo
-<bra>
+<br>
 Author - Atul
